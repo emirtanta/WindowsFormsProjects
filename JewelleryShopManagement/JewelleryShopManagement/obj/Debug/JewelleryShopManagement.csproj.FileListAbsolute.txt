@@ -1,0 +1,15 @@
+C:\Users\emirt\source\repos\WinFormsProjeleri\JewelleryShopManagement\JewelleryShopManagement\bin\Debug\JewelleryShopManagement.exe.config
+C:\Users\emirt\source\repos\WinFormsProjeleri\JewelleryShopManagement\JewelleryShopManagement\bin\Debug\JewelleryShopManagement.exe
+C:\Users\emirt\source\repos\WinFormsProjeleri\JewelleryShopManagement\JewelleryShopManagement\bin\Debug\JewelleryShopManagement.pdb
+C:\Users\emirt\source\repos\WinFormsProjeleri\JewelleryShopManagement\JewelleryShopManagement\obj\Debug\JewelleryShopManagement.Customers.resources
+C:\Users\emirt\source\repos\WinFormsProjeleri\JewelleryShopManagement\JewelleryShopManagement\obj\Debug\JewelleryShopManagement.Fatura.resources
+C:\Users\emirt\source\repos\WinFormsProjeleri\JewelleryShopManagement\JewelleryShopManagement\obj\Debug\JewelleryShopManagement.Items.resources
+C:\Users\emirt\source\repos\WinFormsProjeleri\JewelleryShopManagement\JewelleryShopManagement\obj\Debug\JewelleryShopManagement.Login.resources
+C:\Users\emirt\source\repos\WinFormsProjeleri\JewelleryShopManagement\JewelleryShopManagement\obj\Debug\JewelleryShopManagement.Splash.resources
+C:\Users\emirt\source\repos\WinFormsProjeleri\JewelleryShopManagement\JewelleryShopManagement\obj\Debug\JewelleryShopManagement.Properties.Resources.resources
+C:\Users\emirt\source\repos\WinFormsProjeleri\JewelleryShopManagement\JewelleryShopManagement\obj\Debug\JewelleryShopManagement.csproj.GenerateResource.cache
+C:\Users\emirt\source\repos\WinFormsProjeleri\JewelleryShopManagement\JewelleryShopManagement\obj\Debug\JewelleryShopManagement.csproj.CoreCompileInputs.cache
+C:\Users\emirt\source\repos\WinFormsProjeleri\JewelleryShopManagement\JewelleryShopManagement\obj\Debug\JewelleryShopManagement.exe
+C:\Users\emirt\source\repos\WinFormsProjeleri\JewelleryShopManagement\JewelleryShopManagement\obj\Debug\JewelleryShopManagement.pdb
+C:\Users\emirt\source\repos\WinFormsProjeleri\JewelleryShopManagement\JewelleryShopManagement\obj\Debug\JewelleryShopManagement.FaturaGoster.resources
+C:\Users\emirt\source\repos\WinFormsProjeleri\JewelleryShopManagement\JewelleryShopManagement\obj\Debug\JewelleryShopManagement.csprojAssemblyReference.cache
