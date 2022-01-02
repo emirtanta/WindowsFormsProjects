@@ -1,0 +1,17 @@
+C:\Users\emirt\source\repos\WinFormsProjeleri\HastahaneYonetimSistemi\HastahaneYonetimSistemi\bin\Debug\HastahaneYonetimSistemi.exe.config
+C:\Users\emirt\source\repos\WinFormsProjeleri\HastahaneYonetimSistemi\HastahaneYonetimSistemi\bin\Debug\HastahaneYonetimSistemi.exe
+C:\Users\emirt\source\repos\WinFormsProjeleri\HastahaneYonetimSistemi\HastahaneYonetimSistemi\bin\Debug\HastahaneYonetimSistemi.pdb
+C:\Users\emirt\source\repos\WinFormsProjeleri\HastahaneYonetimSistemi\HastahaneYonetimSistemi\obj\Debug\HastahaneYonetimSistemi.Form1.resources
+C:\Users\emirt\source\repos\WinFormsProjeleri\HastahaneYonetimSistemi\HastahaneYonetimSistemi\obj\Debug\HastahaneYonetimSistemi.frmHome.resources
+C:\Users\emirt\source\repos\WinFormsProjeleri\HastahaneYonetimSistemi\HastahaneYonetimSistemi\obj\Debug\HastahaneYonetimSistemi.Properties.Resources.resources
+C:\Users\emirt\source\repos\WinFormsProjeleri\HastahaneYonetimSistemi\HastahaneYonetimSistemi\obj\Debug\HastahaneYonetimSistemi.csproj.GenerateResource.cache
+C:\Users\emirt\source\repos\WinFormsProjeleri\HastahaneYonetimSistemi\HastahaneYonetimSistemi\obj\Debug\HastahaneYonetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\emirt\source\repos\WinFormsProjeleri\HastahaneYonetimSistemi\HastahaneYonetimSistemi\obj\Debug\HastahaneYonetimSistemi.exe
+C:\Users\emirt\source\repos\WinFormsProjeleri\HastahaneYonetimSistemi\HastahaneYonetimSistemi\obj\Debug\HastahaneYonetimSistemi.pdb
+C:\Users\emirt\source\repos\WinFormsProjeleri\HastahaneYonetimSistemi\HastahaneYonetimSistemi\bin\Debug\WinFormAnimation.dll
+C:\Users\emirt\source\repos\WinFormsProjeleri\HastahaneYonetimSistemi\HastahaneYonetimSistemi\obj\Debug\HastahaneYonetimSistemi.frmDoctor.resources
+C:\Users\emirt\source\repos\WinFormsProjeleri\HastahaneYonetimSistemi\HastahaneYonetimSistemi\obj\Debug\HastahaneYonetimSistemi.frmHasta.resources
+C:\Users\emirt\source\repos\WinFormsProjeleri\HastahaneYonetimSistemi\HastahaneYonetimSistemi\obj\Debug\HastahaneYonetimSistemi.frmSplash.resources
+C:\Users\emirt\source\repos\WinFormsProjeleri\HastahaneYonetimSistemi\HastahaneYonetimSistemi\obj\Debug\HastahaneYonetimSistemi.frmTeshis.resources
+C:\Users\emirt\source\repos\WinFormsProjeleri\HastahaneYonetimSistemi\HastahaneYonetimSistemi\obj\Debug\HastahaneYonetimSistemi.csproj.CopyComplete
+C:\Users\emirt\source\repos\WinFormsProjeleri\HastahaneYonetimSistemi\HastahaneYonetimSistemi\obj\Debug\HastahaneYonetimSistemi.csprojAssemblyReference.cache
