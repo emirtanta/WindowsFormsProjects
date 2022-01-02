@@ -1,0 +1,10 @@
+C:\Users\emirt\source\repos\FastFoodRestaurant\FastFoodRestaurant\bin\Debug\FastFoodRestaurant.exe.config
+C:\Users\emirt\source\repos\FastFoodRestaurant\FastFoodRestaurant\bin\Debug\FastFoodRestaurant.exe
+C:\Users\emirt\source\repos\FastFoodRestaurant\FastFoodRestaurant\bin\Debug\FastFoodRestaurant.pdb
+C:\Users\emirt\source\repos\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.Form1.resources
+C:\Users\emirt\source\repos\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.Properties.Resources.resources
+C:\Users\emirt\source\repos\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.csproj.GenerateResource.cache
+C:\Users\emirt\source\repos\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.csproj.CoreCompileInputs.cache
+C:\Users\emirt\source\repos\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.exe
+C:\Users\emirt\source\repos\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.pdb
+C:\Users\emirt\source\repos\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.csprojAssemblyReference.cache
