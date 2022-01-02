@@ -1,0 +1,10 @@
+C:\Users\EMİR\Source\Repos\WinForms\AkaryakitOtomasyonu\AkaryakitOtomasyonu\bin\Debug\AkaryakitOtomasyonu.exe.config
+C:\Users\EMİR\Source\Repos\WinForms\AkaryakitOtomasyonu\AkaryakitOtomasyonu\bin\Debug\AkaryakitOtomasyonu.exe
+C:\Users\EMİR\Source\Repos\WinForms\AkaryakitOtomasyonu\AkaryakitOtomasyonu\bin\Debug\AkaryakitOtomasyonu.pdb
+C:\Users\EMİR\Source\Repos\WinForms\AkaryakitOtomasyonu\AkaryakitOtomasyonu\obj\Debug\AkaryakitOtomasyonu.csprojAssemblyReference.cache
+C:\Users\EMİR\Source\Repos\WinForms\AkaryakitOtomasyonu\AkaryakitOtomasyonu\obj\Debug\AkaryakitOtomasyonu.Form1.resources
+C:\Users\EMİR\Source\Repos\WinForms\AkaryakitOtomasyonu\AkaryakitOtomasyonu\obj\Debug\AkaryakitOtomasyonu.Properties.Resources.resources
+C:\Users\EMİR\Source\Repos\WinForms\AkaryakitOtomasyonu\AkaryakitOtomasyonu\obj\Debug\AkaryakitOtomasyonu.csproj.GenerateResource.cache
+C:\Users\EMİR\Source\Repos\WinForms\AkaryakitOtomasyonu\AkaryakitOtomasyonu\obj\Debug\AkaryakitOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\EMİR\Source\Repos\WinForms\AkaryakitOtomasyonu\AkaryakitOtomasyonu\obj\Debug\AkaryakitOtomasyonu.exe
+C:\Users\EMİR\Source\Repos\WinForms\AkaryakitOtomasyonu\AkaryakitOtomasyonu\obj\Debug\AkaryakitOtomasyonu.pdb
